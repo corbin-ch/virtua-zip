@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://virtua.zip'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'virtua.zip'
 theme = 'lugo'
